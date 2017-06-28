@@ -20,8 +20,9 @@ This page describes four matlab functions that can be used to replicate experime
 
 3) Measuring the sensitivity of TME under changes in alpha in the fixed p/n setting:
 
-'help alpha_fix_gam.m' for details
+'help alpha_fix_p.m' for details
 
 4) Investigating the performance of regularized-TME in the presence of outliers:
 
 run script 'sim_TME_outliers.m'
+
