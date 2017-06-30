@@ -1,4 +1,4 @@
-# robust-highdim-covariance
+# Code for "Robust Sparse Covariance Estimation by Thresholding Tyler’s M-Estimator"
 Code for "Robust Sparse Covariance Estimation by Thresholding Tyler’s M-Estimator", by John Goes, Gilad Lerman and Boaz Nadler (https://arxiv.org/pdf/1706.08020.pdf).
 
 *******************************************************************************************************************
