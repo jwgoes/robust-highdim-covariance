@@ -10,19 +10,19 @@ Paper abstract: Estimating a high-dimensional sparse covariance matrix from a li
 
 This page describes four matlab functions that can be used to replicate experiments in the above paper:
 
-1) Supporting the theoretical analysis:
+1) Supporting the theoretical analysis (produces panel of Figure 1 in paper):
 
-'help plot_rTME.m' for details
+'help plot_rTME_exp.m' for details
 
-2) Measuring the sensitivity of TME under changes in alpha in the fixed p setting:
+2) Measuring the sensitivity of TME under changes in alpha in the fixed p/n setting (Figure 2 in paper):
 
-'help alpha_sensitivity.m' for details
+'help many_alphas_exp.m' for details
 
-3) Measuring the sensitivity of TME under changes in alpha in the fixed p/n setting:
+3) Measuring the sensitivity of TME under changes in alpha in the fixed p setting (Figure 3 in paper):
 
-'help alpha_fix_p.m' for details
+'help alpha_sensitivity_exp.m' for details
 
-4) Investigating the performance of regularized-TME in the presence of outliers:
+4) Investigating the performance of regularized-TME in the presence of outliers (Figure 4 in paper):
 
-run script 'sim_TME_outliers.m'
+run script 'sim_TME_outliers_exp.m'
 
