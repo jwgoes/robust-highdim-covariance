@@ -8,9 +8,9 @@ Paper abstract: Estimating a high-dimensional sparse covariance matrix from a li
 *******************************************************************************************************************
 
 
-This page describes four matlab functions that can be used to replicate experiments in the above paper:
+The following four matlab functions that can be used to replicate the experiments in the above paper:
 
-1) Supporting the theoretical analysis (produces panel of Figure 1 in paper):
+1) Supporting the theoretical analysis (produces one panel of Figure 1 in paper):
 
 'help plot_rTME_exp.m' for details
 
