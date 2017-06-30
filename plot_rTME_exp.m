@@ -1,6 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Script that produces creates data, runs estimators on the data and plots
-% results
+% Script that creates data, runs estimators on the data and plots
+% results, supporting theoretical analysis in "Robust Sparse Covariance
+% Estimation" by John Goes, Gilad Lerman and Boaz Nadler.
 %
 % % datagen(ns,gam,iter,rho,u) produces data with parameters:
 % % ns - vector of ns
